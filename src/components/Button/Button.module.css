@@ -1,0 +1,18 @@
+.Button {
+  display: block;
+  border: none;
+  padding: 5px;
+  margin: 10px;
+  background-color: #fff;
+  outline: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.Succes {
+  color: #008000;
+}
+
+.Danger {
+  color: #ff0000;
+}
